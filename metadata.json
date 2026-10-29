@@ -1,0 +1,6 @@
+{
+  "name": "Canara COE Knowledge Challenge",
+  "description": "Interactive multiplayer banking training quiz platform with live participant dashboard, projector leaderboard, Excel import, and trainer-paced controls by Punit Dhull, Senior Manager, Canara Centre of Excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

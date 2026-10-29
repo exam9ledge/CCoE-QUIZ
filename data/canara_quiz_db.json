@@ -1,0 +1,211 @@
+{
+  "quizzes": {
+    "726849": {
+      "code": "726849",
+      "title": "Canara Digital Banking & Cyber Security 2026-27",
+      "status": "lobby",
+      "settings": {
+        "mode": "teacher",
+        "shuffle": true,
+        "timerAll": 30,
+        "lifelines": 2,
+        "showExplanation": true,
+        "allowRestart": true,
+        "locked": false
+      },
+      "questions": [
+        {
+          "i": 0,
+          "q": "Under RBI guidelines, what is the maximum transaction limit for UPI Lite without entering a UPI PIN?",
+          "o": [
+            "₹200",
+            "₹500",
+            "₹1,000",
+            "₹2,000"
+          ],
+          "a": 1,
+          "e": "RBI raised the per-transaction limit for UPI Lite to ₹500, with a cumulative wallet limit of ₹2,000.",
+          "t": "Digital Banking",
+          "s": 30
+        },
+        {
+          "i": 1,
+          "q": "Which of the following documents is NOT considered an Officially Valid Document (OVD) for Individual KYC?",
+          "o": [
+            "Passport",
+            "Driving License",
+            "Ration Card",
+            "Voter's Identity Card"
+          ],
+          "a": 2,
+          "e": "Ration card is not recognized as an Officially Valid Document (OVD) under RBI Master Direction on KYC.",
+          "t": "KYC & AML",
+          "s": 30
+        },
+        {
+          "i": 2,
+          "q": "What is the primary purpose of the Prompt Corrective Action (PCA) framework enforced by the Reserve Bank of India?",
+          "o": [
+            "To liquidate non-performing banks",
+            "To monitor banks with weak financial metrics before crisis",
+            "To mandate interest rate ceilings",
+            "To regulate NBFC microfinance rates"
+          ],
+          "a": 1,
+          "e": "PCA is an early-intervention supervisory framework assessing Capital, Asset Quality, and Leverage.",
+          "t": "Banking Regulations",
+          "s": 30
+        },
+        {
+          "i": 3,
+          "q": "Under the Canara Bank Retail Lending Scheme, what is the standard CIBIL score benchmark generally required for preferential home loan interest rates?",
+          "o": [
+            "550 & above",
+            "650 & above",
+            "750 & above",
+            "850 only"
+          ],
+          "a": 2,
+          "e": "A credit bureau (CIBIL) score of 750 and above qualifies borrowers for standard preferential retail rate slabs.",
+          "t": "Retail Credit",
+          "s": 30
+        },
+        {
+          "i": 4,
+          "q": "What is the maximum insurance coverage provided to a bank depositor by DICGC per bank?",
+          "o": [
+            "₹1 Lakh",
+            "₹2 Lakhs",
+            "₹5 Lakhs",
+            "₹10 Lakhs"
+          ],
+          "a": 2,
+          "e": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits up to ₹5 Lakhs per depositor across accounts in the same bank.",
+          "t": "Compliance & Safety",
+          "s": 30
+        },
+        {
+          "i": 5,
+          "q": "In cyber fraud prevention, what is the national helpline number for reporting financial cybercrime in India?",
+          "o": [
+            "1930",
+            "112",
+            "1800-425-0018",
+            "1098"
+          ],
+          "a": 0,
+          "e": "1930 is the dedicated national cyber financial fraud reporting helpline connected to the Citizen Financial Cyber Fraud Reporting and Management System.",
+          "t": "Cyber Security",
+          "s": 30
+        }
+      ],
+      "live": {
+        "phase": "lobby",
+        "q": 0,
+        "pos": 0,
+        "seq": 2,
+        "started_at": null,
+        "ends_at": null,
+        "skipped": []
+      },
+      "created_at": "2026-10-29T09:13:02.594Z",
+      "updated_at": "2026-10-29T09:13:41.057Z"
+    },
+    "839104": {
+      "code": "839104",
+      "title": "Canara Centre of Excellence – Retail Credit & KYC Challenge",
+      "status": "lobby",
+      "settings": {
+        "mode": "student",
+        "shuffle": true,
+        "timerAll": 30,
+        "lifelines": 2,
+        "showExplanation": true,
+        "allowRestart": true,
+        "locked": false
+      },
+      "questions": [
+        {
+          "i": 0,
+          "q": "Under RBI guidelines, what is the maximum transaction limit for UPI Lite without entering a UPI PIN?",
+          "o": [
+            "₹200",
+            "₹500",
+            "₹1,000",
+            "₹2,000"
+          ],
+          "a": 1,
+          "e": "RBI raised the per-transaction limit for UPI Lite to ₹500, with a cumulative wallet limit of ₹2,000.",
+          "t": "Digital Banking",
+          "s": 30
+        },
+        {
+          "i": 1,
+          "q": "Which of the following documents is NOT considered an Officially Valid Document (OVD) for Individual KYC?",
+          "o": [
+            "Passport",
+            "Driving License",
+            "Ration Card",
+            "Voter's Identity Card"
+          ],
+          "a": 2,
+          "e": "Ration card is not recognized as an Officially Valid Document (OVD) under RBI Master Direction on KYC.",
+          "t": "KYC & AML",
+          "s": 30
+        },
+        {
+          "i": 2,
+          "q": "What is the primary purpose of the Prompt Corrective Action (PCA) framework enforced by the Reserve Bank of India?",
+          "o": [
+            "To liquidate non-performing banks",
+            "To monitor banks with weak financial metrics before crisis",
+            "To mandate interest rate ceilings",
+            "To regulate NBFC microfinance rates"
+          ],
+          "a": 1,
+          "e": "PCA is an early-intervention supervisory framework assessing Capital, Asset Quality, and Leverage.",
+          "t": "Banking Regulations",
+          "s": 30
+        },
+        {
+          "i": 3,
+          "q": "Under the Canara Bank Retail Lending Scheme, what is the standard CIBIL score benchmark generally required for preferential home loan interest rates?",
+          "o": [
+            "550 & above",
+            "650 & above",
+            "750 & above",
+            "850 only"
+          ],
+          "a": 2,
+          "e": "A credit bureau (CIBIL) score of 750 and above qualifies borrowers for standard preferential retail rate slabs.",
+          "t": "Retail Credit",
+          "s": 30
+        }
+      ],
+      "live": {
+        "phase": "lobby",
+        "q": 0,
+        "pos": 0,
+        "seq": 1,
+        "started_at": null,
+        "ends_at": null,
+        "skipped": []
+      },
+      "created_at": "2026-10-29T09:13:02.594Z",
+      "updated_at": "2026-10-29T09:13:02.594Z"
+    }
+  },
+  "players": {},
+  "admin": {
+    "username": "admin",
+    "passwordHash": "5207de247dd91e10cb3e99b3c9e6e1dc11c8c2307950b3c55976a7ccb91abd65ac7ea5acfda11c8c530528f8f3f76ee97739512603a4f5a26f64da39dc8a5238",
+    "salt": "d9aa34c44b8952643638239078fc7640",
+    "mustChange": false
+  },
+  "tokens": {
+    "686878edb4a668e7cfe0259c97991a214ebe6822f7b2b396f946e85c1f6380c6": {
+      "username": "admin",
+      "expiresAt": 1793351603807
+    }
+  }
+}
